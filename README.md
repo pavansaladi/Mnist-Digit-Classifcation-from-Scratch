@@ -1,6 +1,6 @@
 # Handwritten Digit Recognition Using Neural Network
 
-<img src="img/MNIST.png" width="80%"/>
+<img src="MNIST.png" width="80%"/>
 
 This repo builds a 4-layer neural network from scratch to recognize the MNIST Database of handwritten digits
 
@@ -29,3 +29,4 @@ Use test function to show the test images by ```opencv``` and print the predicte
 * learning rate: 0.001
 * epoch: 5
 * accuracy: 82.9%
+<img src="result.png" width="80%"/>
