@@ -29,4 +29,4 @@ Use test function to show the test images by ```opencv``` and print the predicte
 * learning rate: 0.001
 * epoch: 5
 * accuracy: 82.9%
-<img src="result.png" width="80%"/>
+<img src="result.jpg" width="80%"/>
