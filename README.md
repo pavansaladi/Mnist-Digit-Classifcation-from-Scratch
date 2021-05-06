@@ -28,10 +28,4 @@ Use test function to show the test images by ```opencv``` and print the predicte
 * batch size: 1
 * learning rate: 0.001
 * epoch: 5
-* final loss: 0.1
-
-<img src="img/loss.png" width="50%"/>
-
 * accuracy: 82.9%
-
-<img src="img/result.jpg" width="30%"/>
